@@ -44,3 +44,5 @@ This project is licensed under the MIT License
 ## Author
 Ben Santora <bensatlantik@gmail.com>
 
+## Donate
+https://bensatlantik.github.io/
