@@ -1,3 +1,7 @@
+## Archived Repository
+
+**This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.**
+
 # Vector Converter
 
 A simple Rust library to convert between vectors of different types, such as converting a vector of integers to a vector of strings and vice versa.
@@ -42,7 +46,4 @@ fn main() {
 This project is licensed under the MIT License
 
 ## Author
-Ben Santora <bensatlantik@gmail.com>
-
-## Donate
-https://bensatlantik.github.io/
+Ben Santora 
